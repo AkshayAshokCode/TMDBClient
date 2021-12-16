@@ -1,4 +1,4 @@
-package com.akshayashokcode.tmdbclient.data.model
+package com.akshayashokcode.tmdbclient.data.model.tvshow
 
 
 import com.google.gson.annotations.SerializedName
