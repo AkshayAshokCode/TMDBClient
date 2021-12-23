@@ -1,4 +1,4 @@
-package com.akshayashokcode.tmdbclient.presentation.di
+package com.akshayashokcode.tmdbclient.presentation.di.core
 
 import com.akshayashokcode.tmdbclient.data.api.TMDBService
 import com.akshayashokcode.tmdbclient.data.repository.artist.datasource.ArtistRemoteDataSource
