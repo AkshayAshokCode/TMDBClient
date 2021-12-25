@@ -23,8 +23,8 @@ class MovieActivity : AppCompatActivity() {
 
         movieViewModel=ViewModelProvider(this,factory)
             .get(MovieViewModel::class.java)
-        val reponseLiveData=movieViewModel.getMovies()
-        reponseLiveData.observe(this, Observer {
+        val responseLiveData=movieViewModel.getMovies()
+        responseLiveData.observe(this, Observer {
 
         })
     }
