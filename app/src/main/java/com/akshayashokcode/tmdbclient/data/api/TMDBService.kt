@@ -1,8 +1,8 @@
 package com.akshayashokcode.tmdbclient.data.api
 
-import com.akshayashokcode.tmdbclient.data.model.ArtistList
-import com.akshayashokcode.tmdbclient.data.model.MoviesList
-import com.akshayashokcode.tmdbclient.data.model.TvShowList
+import com.akshayashokcode.tmdbclient.data.model.artist.ArtistList
+import com.akshayashokcode.tmdbclient.data.model.movie.MoviesList
+import com.akshayashokcode.tmdbclient.data.model.tvshow.TvShowList
 import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Query
